@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.28)  4 OCT 2020 20:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.28)  7 OCT 2020 14:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -895,353 +895,168 @@ e
 ))
 \c@lstlisting=\count140
 
-(./11abstract_algebra.tex [1
+[1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Chapter 1.
-
-LaTeX Warning: Citation `fraleigh' on page 2 undefined on input line 37.
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 37.
+(./11abstract_algebra.tex
+Subject 1.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 22.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+LaTeX Font Info:    Try loading font information for U+msa on input line 26.
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
-
- []
-
-LaTeX Font Info:    Try loading font information for U+msa on input line 39.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 39.
+LaTeX Font Info:    Try loading font information for U+msb on input line 26.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 39.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 26.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-)
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-
- []
-
-
-Overfull \hbox (27.89793pt too wide) in paragraph at lines 41--41
-[]\OT1/cmr/bx/n/14.4 Direct Prod-ucts and Finitely Gen-er-ated Abelian
- []
-
-) (./12linear_algebra.tex [2
-
-] [3
+))
+(./12linear_algebra.tex [2
 
 ]
-Chapter 2.
-[4
+Subject 2.
+) (./13basic_topology.tex [3
 
 ]
-Chapter 3.
-[5
+Subject 3.
+) (./14real_analysis.tex [4
 
 ]
-Chapter 4.
-[6
+Subject 4.
+) (./15graph_theory.tex [5
 
 ]
-Chapter 5.
-) (./13basic_topology.tex [7
+Subject 5.
+) [6
 
-] [8
+] [7
 
-]
-Chapter 6.
-[9
-
-]
-Chapter 7.
-
-Overfull \hbox (1.36624pt too wide) in paragraph at lines 65--65
-[]\OT1/cmr/bx/n/14.4 Neighbourhoods, In-te-rior and Ac-cu-mu-la-tion
- []
-
-
-Overfull \hbox (22.2295pt too wide) in paragraph at lines 67--67
-[]\OT1/cmr/bx/n/14.4 Making Func-tions Con-tin-u-ous, Quo-tient Spaces 
- []
-
-[10
+] (./21advanced_abstract_algebra.tex
+Subject 6.
+) (./22advanced_topology.tex [8
 
 ]
-Chapter 8.
-[11
+Subject 7.
+) (./23numerical_analysis_with_python.tex [9
 
 ]
-Chapter 9.
-) (./14real_analysis.tex [12
+Subject 8.
+) (./24complex_analysis.tex [10
+
+]
+Subject 9.
+) (./25measure_and_integration.tex [11
+
+]
+Subject 10.
+) [12
 
 ] [13
 
-]
-Chapter 10.
-[14
+] (./31advanced_complex_analysis.tex
+Subject 11.
+) (./32partial_differential_equations.tex [14
 
 ]
-Chapter 11.
-[15
+Subject 12.
+) (./33multivariate_calculus_and_integral_transforms.tex [15
 
 ]
-Chapter 12.
+Subject 13.
 [16
 
-]
-Chapter 13.
-) (./15graph_theory.tex [17
-
-] [18
+]) (./34functional_analysis.tex [17]
+Subject 14.
+) (./35optimization_technique.tex [18
 
 ]
-Chapter 14.
-[19
+Subject 15.
+) [19
+
+] [20
+
+] (./41spectral_theory.tex
+Subject 16.
+) (./42analytic_number_theory.tex [21
 
 ]
-Chapter 15.
-[20
+Subject 17.
+) (./43differential_geometry.tex [22
 
 ]
-Chapter 16.
-[21
+Subject 18.
+) (./44algorithmic_graph_theory.tex [23
 
 ]
-Chapter 17.
-[22
+Subject 19.
+) (./45combinatorics.tex [24
 
 ]
-Chapter 18.
-[23
+Subject 20.
+) (./46probability_theory.tex [25
 
 ]
-Chapter 19.
-[24
+Subject 21.
+) (./47operational_research.tex [26
 
 ]
-Chapter 20.
-[25
+Subject 22.
+) (./48coding_theory.tex [27
 
 ]
-Chapter 21.
-) (./21advanced_abstract_algebra.tex [26
-
-] [27
-
-]) (./22advanced_topology.tex
-[28
-
-]) (./23numerical_analysis_with_python.tex) (./24complex_analysis.tex
-[29
-
-]) (./25measure_and_integration.tex [30
-
-]) (./31advanced_complex_analysis.tex [31
-
-]) (./32partial_differential_equations.tex [32
-
-])
-(./33multivariate_calculus_and_integral_transforms.tex [33
-
-])
-(./34functional_analysis.tex [34
-
-]) (./35optimization_technique.tex [35
-
-])
-(./41spectral_theory.tex [36
-
-]) (./42analytic_number_theory.tex [37
-
-])
-(./43differential_geometry.tex [38
-
-]) (./44algorithmic_graph_theory.tex [39
+Subject 23.
+) (./49commutative_algebra.tex [28
 
 ]
-Chapter 22.
-[40
+Subject 24.
+) (./4Aordinary_differential_equations.tex [29
 
 ]
-Chapter 23.
-[41
+Subject 25.
+) (./4Bclassical_mechanics.tex [30
 
 ]
-Chapter 24.
-[42
-
-]
-Chapter 25.
-[43
-
-]
-Chapter 26.
-[44
+Subject 26.
+) (./plan.bbl [31
 
 ]
 
-LaTeX Warning: Citation `chartrand' on page 45 undefined on input line 110.
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-[45] [46]
-Underfull \hbox (badness 10000) in paragraph at lines 221--223
+) [32
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
-
- []
-
-[47]
-Overfull \hbox (60.52971pt too wide) detected at line 250
-[]
- []
-
-
-Overfull \hbox (58.27011pt too wide) detected at line 260
-[]
- []
-
-
-Overfull \hbox (80.08961pt too wide) detected at line 270
-[]
- []
-
-[48]
-Overfull \hbox (60.52971pt too wide) detected at line 280
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 283--284
-
- []
-
-[49]
-Overfull \hbox (11.11707pt too wide) in paragraph at lines 306--308
-\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 2 \OT1
-/cmr/m/n/10 (\OML/cmm/m/it/10 X; []\OT1/cmr/m/n/10 )$ \OT1/cmr/m/it/10 such tha
-t $\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y\OT1/cmr/m/n/10 ) \O
-ML/cmm/m/it/10 < c\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y\OT1/cmr/m/n/10 )$ \OT1
-/cmr/m/it/10 or [](b)[]  a re-verse arc $\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 y; x
-\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 2 \OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 ; X\OT
-1/cmr/m/n/10 )$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 308--309
-
- []
-
-[50]
-Underfull \hbox (badness 10000) in paragraph at lines 323--324
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 325--326
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 327--328
-
- []
-
-
-Overfull \hbox (17.09789pt too wide) in paragraph at lines 341--342
-[]\OT1/cmr/m/it/10 Find (short-est) $\OML/cmm/m/it/10 s \OMS/cmsy/m/n/10 ^^@ \O
-ML/cmm/m/it/10 t$ \OT1/cmr/m/it/10 di-rected path in $\OML/cmm/m/it/10 D[]$ \OT
-1/cmr/m/it/10 us-ing Moore's breadth first search(BFS)
- []
-
-[51]
-Underfull \hbox (badness 10000) in paragraph at lines 377--378
-
- []
-
-[52] [53] [54]
-Chapter 27.
-
-Overfull \hbox (1.68813pt too wide) in paragraph at lines 473--474
-[]\OT1/cmr/m/it/10 in $\OML/cmm/m/it/10 G$ \OT1/cmr/m/it/10 is a path with edge
-s al-ter-nately matched and un-matched. 
- []
-
-[55
-
-] [56] [57]
-
-LaTeX Warning: Reference `alg:maxmatching' on page 58 undefined on input line 5
-93.
-
-
-Overfull \hbox (4.35971pt too wide) in paragraph at lines 623--624
-[]\OT1/cmr/bx/n/10 Definitions 27.19. []\OT1/cmr/m/it/10 If $\OML/cmm/m/it/10 G
-$ \OT1/cmr/m/it/10 has a fac-tori-sa-tion to $\OML/cmm/m/it/10 r$\OT1/cmr/m/it/
-10 -factors, then $\OML/cmm/m/it/10 G$ \OT1/cmr/m/it/10 is \OT1/cmr/bx/it/10 r-
-factorable\OT1/cmr/m/it/10 . 
- []
-
-[58] [59]) (./45combinatorics.tex [60] [61
-
-]) (./46probability_theory.tex)
-(./47operational_research.tex) (./48coding_theory.tex)
-(./49commutative_algebra.tex) (./4Aordinary_differential_equations.tex)
-(./4Bclassical_mechanics.tex)
-No file plan.bbl.
-(./plan.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+] (./plan.aux) ) 
 Here is how much of TeX's memory you used:
- 15465 strings out of 494847
- 296183 string characters out of 6179079
- 334160 words of memory out of 5000000
- 18400 multiletter control sequences out of 15000+600000
- 13154 words of font info for 51 fonts, out of 8000000 for 9000
+ 15421 strings out of 494847
+ 295624 string characters out of 6179079
+ 325164 words of memory out of 5000000
+ 18365 multiletter control sequences out of 15000+600000
+ 8053 words of font info for 32 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 55i,11n,56p,847b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/symbols/msbm10.pfb>
-Output written on plan.pdf (61 pages, 324352 bytes).
+ 55i,5n,56p,723b,269s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on plan.pdf (32 pages, 112642 bytes).
 PDF statistics:
- 294 PDF objects out of 1000 (max. 8388607)
- 206 compressed objects within 3 object streams
+ 142 PDF objects out of 1000 (max. 8388607)
+ 99 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
